@@ -1,0 +1,4 @@
+customer1|pass123|Customer
+clerk1|pass123|SalesClerk
+manager1|pass123|Manager
+
